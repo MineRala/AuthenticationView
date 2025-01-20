@@ -38,7 +38,6 @@ struct SegmentedView: View {
                     )
             }
 
-
             Button {
                 withAnimation {
                     authType = .register
